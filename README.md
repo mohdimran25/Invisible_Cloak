@@ -13,7 +13,7 @@ A Cloak to make you invisible built with OpenCV
   ```bash
   envname\scripts\activate
   ```
-- Install files
+- Installing necessary files
   ```bash
   pip install -r requirements.txt
   ```
