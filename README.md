@@ -1,7 +1,7 @@
 # Invisible_Cloak
 A Cloak to make you invisible built with OpenCV
 ### To run the project into your local machine
-- First install virtual environment 
+- First create a virtual environment in your system
   ```bash
   pip3 install virtualenv
   ```
